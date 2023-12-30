@@ -1,0 +1,18 @@
+Chicken Soup
+First Course
+40.7
+Steak with Potatoes
+Main Course
+100.8
+Green Salad
+Last Course
+37.5
+Cola
+Drink
+10.2
+Fish and Chips
+Main Course
+89.4
+Fruit Salad
+Last Course
+29.9
